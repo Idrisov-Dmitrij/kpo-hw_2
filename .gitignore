@@ -1,0 +1,4 @@
+*.csv
+*.json
+!testdata/**
+.DS_Store
